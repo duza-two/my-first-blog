@@ -1,2 +1,2 @@
 # my-first-blog
-This project was to a learning experience to creating an online blog with Python and Django
+ This exercise was to learn to create and deploy a basic python, django blog and to deploy it.
